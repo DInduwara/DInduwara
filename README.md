@@ -15,5 +15,5 @@
 - **Tools & Platforms**: AWS, GitHub, Docker, Vertex AI  
 
 📫 Connect with Me  
-- 💼 [LinkedIn](www.linkedin.com/in/dinuka-induwara)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dinuka-induwara)  
 - 📧 Email: bandarainduwara3@gmail.com  
