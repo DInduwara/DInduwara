@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Dinuka 👋  
+🚀 Software Engineering Undergraduate | Full-Stack Developer | AI Enthusiast  
 
-<!--
-**DInduwara/DInduwara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 About Me  
+- 🎓 2nd-year Software Engineering student  
+- 💻 Passionate about **Full-Stack Development** and **Machine Learning**  
+- 🌱 Currently building AI-powered apps and learning **Django**  
+- 👯 Looking to collaborate on open-source and innovative projects  
+- ⚡ Fun fact: I love solving problems with code and experimenting with new tech  
 
-Here are some ideas to get you started:
+🛠️ Tech Stack  
+- **Languages**: Java, Python, TypeScript, JavaScript, SQL, C#, Go  
+- **Frameworks**: Django, Next.js, Spring Boot  
+- **Databases**: MongoDB, PostgreSQL, MySQL  
+- **Tools & Platforms**: AWS, GitHub, Docker, Vertex AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with Me  
+- 💼 [LinkedIn](www.linkedin.com/in/dinuka-induwara)  
+- 📧 Email: bandarainduwara3@gmail.com  
