@@ -2,7 +2,8 @@
 🚀 Software Engineering Undergraduate | Full-Stack Developer | AI & ML Engineer  
 
 
-💡 About Me  
+
+### 💡 About Me  
 - 🎓 2nd-year Software Engineering student  
 - 💻 Passionate about **Full-Stack Development**, **Machine Learning**, and **AI Engineering**   
 - 🌱 Currently building AI-powered apps and learning **Django**  
@@ -10,7 +11,7 @@
 - ⚡ Fun fact: I love solving problems with code and experimenting with new tech  
 
 
-🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 **Languages & Frameworks**  
 - Java, Python, TypeScript, JavaScript, SQL  
 - Django, Next.js, Spring Boot, React, PyTorch  
@@ -23,6 +24,6 @@
 - Figma, GitHub, GitHub Actions  
 
 
-📫 Connect with Me  
+### 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/dinuka-induwara)  
 - 📧 Email: bandarainduwara3@gmail.com  
