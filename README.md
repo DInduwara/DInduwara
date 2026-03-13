@@ -63,7 +63,7 @@ A machine learning implementation focused on high-precision financial security.
 
 ---
 
-## 🤖 Interaction
+## Interaction
 [![AI Twin Status](https://img.shields.io/badge/AI--Twin-Live%20%26%20Online-4f46e5?style=for-the-badge&logo=robot)](https://dinuka-induwara-portfolio.vercel.app)
 
 > **Note:** My portfolio features a stateful Digital Twin powered by LangGraph. It is capable of real-time navigation and contextual discussion regarding my engineering background.
